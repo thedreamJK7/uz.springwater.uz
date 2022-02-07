@@ -1,2 +1,2 @@
-# uz.springwater.uz
-uz.springwater.uz
+# springwater
+Spring Water Web-Site
